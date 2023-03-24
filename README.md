@@ -30,4 +30,5 @@ The trained model is evaluated on the testing set using the evaluate method of t
 
 To use this neural network for CIFAR-10 image classification, you can simply clone this repository and run the "convolutional_neural_network.py" file. The neural network will be trained and the accuracy on the testing set will be printed. You can also modify the hyperparameters, such as the number of epochs, batch size, and learning rate, to see if you can improve the accuracy score.
 
-    - The "tensorflow" library is developed and maintained by Google Brain team and many contributors from the open source community. The project is led by Martin Wicke, Rajat Monga, and Joshua Gordon.
+    - The "tensorflow" library is developed and maintained by Google Brain team and many contributors from the open source community. 
+    - The project is led by Martin Wicke, Rajat Monga, and Joshua Gordon.
