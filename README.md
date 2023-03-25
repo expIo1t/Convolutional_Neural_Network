@@ -2,7 +2,9 @@
 
 	- ❗ Disclaimer:
 
-	- This code may bear resemblance to other existing implementations, but it was written by me and intended for educational purposes only. I make no claim to be the original author of the concepts or methods implemented in this code. If you believe that any part of this code infringes upon your intellectual property rights, please contact me immediately and I will take appropriate action. ❗
+	- This code may bear resemblance to other existing implementations, but it was written by me and intended for educational purposes only. 
+	- I make no claim to be the original author of the concepts or methods implemented in this code. 
+	- If you believe that any part of this code infringes upon your intellectual property rights, please contact me immediately and I will take appropriate action. ❗
 
 
 
