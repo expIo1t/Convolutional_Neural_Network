@@ -9,7 +9,7 @@
 
 
 This project is a Convolutional Neural Network (CNN) designed for the CIFAR-10 image classification task. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class. The objective of this neural network is to correctly classify these images into their respective categories.
-Dependencies
+
 
 The CIFAR-10 dataset is loaded using the "keras.datasets.cifar10" module from Keras. The dataset is split into training and testing sets, with 50,000 images in the training set and 10,000 images in the testing set. The images are preprocessed by scaling the pixel values between 0 and 1.
 Model Architecture
